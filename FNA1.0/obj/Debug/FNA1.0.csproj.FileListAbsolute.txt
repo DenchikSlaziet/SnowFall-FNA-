@@ -1,0 +1,14 @@
+C:\Users\koche\Desktop\Учеба\Программирование\C#\FNA1.0\obj\Debug\FNA1.0.csproj.AssemblyReference.cache
+C:\Users\koche\Desktop\Учеба\Программирование\C#\FNA1.0\obj\Debug\FNA1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\koche\Desktop\Учеба\Программирование\C#\FNA1.0\obj\Debug\FNA1.0.csproj.CoreCompileInputs.cache
+C:\Users\koche\Desktop\Учеба\Программирование\C#\FNA1.0\bin\Debug\FAudio.dll
+C:\Users\koche\Desktop\Учеба\Программирование\C#\FNA1.0\bin\Debug\FNA3D.dll
+C:\Users\koche\Desktop\Учеба\Программирование\C#\FNA1.0\bin\Debug\libtheorafile.dll
+C:\Users\koche\Desktop\Учеба\Программирование\C#\FNA1.0\bin\Debug\SDL2.dll
+C:\Users\koche\Desktop\Учеба\Программирование\C#\FNA1.0\bin\Debug\FNA1.0.exe.config
+C:\Users\koche\Desktop\Учеба\Программирование\C#\FNA1.0\bin\Debug\FNA1.0.exe
+C:\Users\koche\Desktop\Учеба\Программирование\C#\FNA1.0\bin\Debug\FNA1.0.pdb
+C:\Users\koche\Desktop\Учеба\Программирование\C#\FNA1.0\bin\Debug\FNA.dll
+C:\Users\koche\Desktop\Учеба\Программирование\C#\FNA1.0\obj\Debug\FNA1.0.csproj.CopyComplete
+C:\Users\koche\Desktop\Учеба\Программирование\C#\FNA1.0\obj\Debug\FNA1.0.exe
+C:\Users\koche\Desktop\Учеба\Программирование\C#\FNA1.0\obj\Debug\FNA1.0.pdb
